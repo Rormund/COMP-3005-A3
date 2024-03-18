@@ -4,6 +4,8 @@ COMP3005 Assignment 3 Question 1
 
 COMPILATION INSTRUCTIONS: (in file containing Main.java) javac Main.java
 
+SETUP INSTRUCTIONS: Make sure to have the database created before using the application.
+
 EXECUTION INSTRUCTIONS: java Main
 - Follow instructions generated when program runs to use application features
 
