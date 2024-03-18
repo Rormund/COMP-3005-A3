@@ -4,7 +4,7 @@ COMP3005 Assignment 3 Question 1
 
 COMPILATION INSTRUCTIONS: (in file containing Main.java) javac Main.java
 
-SETUP INSTRUCTIONS: Make sure to have the database created before using the application.
+SETUP INSTRUCTIONS: Create a database in Postgresql, and use the given table creation file to create the students table. Then you may use the init file as well to populate the table with some students.
 
 EXECUTION INSTRUCTIONS: java Main
 - Follow instructions generated when program runs to use application features
